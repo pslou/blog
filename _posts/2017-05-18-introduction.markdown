@@ -25,7 +25,7 @@ of the present moment. Of course, this blog is not about the world of
 Winnie-the-Pooh, nor is it about anything specific really. But Pooh
 and my other old friends from the Hundred Acres Wood remind me each and every
 day to retain a childlike heart; I hope this blog is an outward expression of
-a simple child's curiousity and joy.
+a simple curiousity and joy.
 
 > "When you discard arrogance, complexity, and a few other things that get in the way, sooner or later you will discover that simple, childlike, and mysterious secret known to those of the Uncarved Block: Life is Fun."
 > ~ Benjamin Hoff
