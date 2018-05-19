@@ -16,6 +16,9 @@ ruby RUBY_VERSION
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 
+# Need rake to build site in TravisCI
+gem "rake"
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
@@ -27,5 +30,6 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
    gem "jekyll-feed"
    gem "jekyll-archives"
-   gem "jekyll-paginate"
+   gem "jekyll-paginate-v2"
 end
+
