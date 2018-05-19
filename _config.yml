@@ -7,7 +7,7 @@ paginate: 5
 paginate_path: "page:num"
 
 # Setup
-title:               plou's tHoTFuL SPot
+title:               plous tHoTFuL SPot
 tagline:             'hi :)'
 description:         'thoughts, endeavors, and ramblings'
 url:                 'paullou.me'
@@ -17,3 +17,14 @@ baseurl:             '/blog'
 author:
   name:              Paul S. Lou
   url:               paullou.me
+
+jekyll-archives:
+  enabled: all
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
