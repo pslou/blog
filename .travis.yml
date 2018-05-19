@@ -1,13 +1,13 @@
 language: ruby
-branches:
-  only:
-  - master
-github-token: H0+k5Xu3QESPAtgkGAw/owDXIvRsETRYniex1Ih1U7OfeQeqqhoXM1QnuCEtQr9hVbjHS30HDIVzCW/ImaxxqHypA+VvR7xdCkdir0RX7l3CJ0RH1DozQluuLH+Li/p0rS3ehJJPeG/nDgsOxShPe+Zb6urGqg2hKsp/IlaTCfJ86BO0F1AF5zApoh+SKPjACSPd8xepXecKYmnlrQEI/kCd71NnBADfprfw2VmLsuYrLRNH6cVb0M6uWb77R9ZLAtyhPwZsCnEnsMntiZIp03uHt4sYZXVDHnljjsAldsjDdwh6qub2D2B3KXFuIhSxvgWiZvJlUOcdJtj7ya7DE4Ic/B5F3UPLB1NbnY4hPy6hzPgbOpSwaNHlvMpZ0nnLsG2Tt6pfj3lz2bK+StKTlS0AHa6da5YEB4hXl+Bo7Jk/D1KlOsJso1RmNgZInJCDClGq9CWZobhDGgm0z22st52Win6EU9CWL4rTs7WZ3CfbIQgp6WzkYRKcEEdmGuBSpDiDExdpnRn3xle14G9DCeucDf6MyXciYVRRZaTZ3mPjU5wXyY/DBrrzYciubCo3JtJ856Ou3kS5BNr1NKAEBfeqOIljLXWXBlMqeQe9LVr6AFu2AhfVvgQsQ12Tb4+j6G1ygpY8nlK193dIre85C1ApYZr2dQmaXB7tBjbmYi4=
 rvm:
-- 2.2.3
-before_script:
-- chmod +x ./script/cibuild
-script: "./script/cibuild"
-exclude:
-- vendor
-sudo: false
+- 2.3.1
+install:
+- bundle install
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: _site
+  target_branch: master
+  on:
+    branch: gh-pages

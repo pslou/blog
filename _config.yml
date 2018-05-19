@@ -18,6 +18,19 @@ author:
   name:              Paul S. Lou
   url:               paullou.me
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+
 jekyll-archives:
   enabled: all
   layout: 'archive'
