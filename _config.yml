@@ -1,8 +1,20 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
 
@@ -17,19 +29,6 @@ baseurl:             '/blog'
 author:
   name:              Paul S. Lou
   url:               paullou.me
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate-v2
-
-exclude:
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Rakefile
 
 jekyll-archives:
   enabled: all
