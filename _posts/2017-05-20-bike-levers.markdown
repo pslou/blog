@@ -11,8 +11,8 @@ attach a photo sometime, but the bike is in fair condition with just a slight
 bit of rust. The most enjoyable yet concerning features are the downtube shifters
 and the fact that I can't really grip/reach the break levers.
 
-Downtube gear shifters are RETRO. Together with drinking Seattle cold brew, downtube
-shifters are the beginning of my hipster transformation.
+Downtube gear shifters are RETRO. Together with drinking Seattle cold brew, using downtube
+shifters feels really hipster.
 Unfortunately, these shifters are slightly less convenient because of where they are
 located on the bike: down on the frame rather than where the hands sit on the
 handlebars. I'm glad they work because I'm not sure it's possible to bike
