@@ -21,4 +21,4 @@ So this is what the bike looked like after I was done:
 And so I took it down a slope to test the breaks:
 ![Slope]({{ site.url }}/images/seattle-jank-bike/test_slope.jpg)
 And the breaks were weak but acceptable since I can just use my feet to stop
-myself after slowing down enough. So YAY! Callooh! Callay! Oh, frabjous day!
+myself after slowing down enough. So YAY! 
