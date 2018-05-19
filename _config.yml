@@ -10,7 +10,7 @@ paginate_path: "page:num"
 title:               plou's tHoTFuL SPot
 tagline:             'hi :)'
 description:         'thoughts, endeavors, and ramblings'
-url:                 blog.paullou.me
+url:                 paullou.me/blog
 baseurl:             ''
 
 # About/contact
