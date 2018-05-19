@@ -21,12 +21,10 @@ permalink:           pretty
 pagination:
   enabled: true
   debug: false
-  collection: 'posts'
   per_page: 1
   limit: 0
   title: ':title'
   sort_reverse: true
-  indexpage: 'index'
 
 # Setup
 title:               plou's tHoTFuL SPot
