@@ -42,6 +42,7 @@ layouts-dir:
   month: month-archive
 
 jekyll-archives:
-  enabled: all
+  enabled:
+    - month
   layout: 'archive'
 
