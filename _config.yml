@@ -15,8 +15,19 @@ exclude:
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-paginate: 5
-paginate_path: "page:num"
+
+# Site configuration for the Jekyll 3 Pagination Gem
+# The values here represent the defaults if nothing is set
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 5
+  permalink: '/page/:num/'
+  limit: 0
+  title: ':title'
+  sort_reverse: true
+  indexpage: 'index'
 
 # Setup
 title:               plous tHoTFuL SPot
