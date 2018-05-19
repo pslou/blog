@@ -22,8 +22,7 @@ pagination:
   enabled: true
   debug: false
   collection: 'posts'
-  per_page: 5
-  permalink: '/page/:num/'
+  per_page: 1
   limit: 0
   title: ':title'
   sort_reverse: true
@@ -41,13 +40,10 @@ author:
   name:              Paul S. Lou
   url:               paullou.me
 
+layouts-dir:
+  month: month-archive
+
 jekyll-archives:
   enabled: all
   layout: 'archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
 
