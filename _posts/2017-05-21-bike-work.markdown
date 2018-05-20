@@ -2,7 +2,7 @@
 layout: post
 title:  "Finished Bike"
 date:   2017-05-21 18:30:00 -0700
-categories: Seattle Summer 2017
+categories: Seattle
 ---
 
 So here are the photos. These are the tools and the new bike levers:
@@ -16,9 +16,9 @@ in the yolk and I inadvertently looped the rear break cable onto the nut for the
 seat height adjustment. So I can't actually adjust the seat height anymore...
 ![Front Calipers]({{ site.baseurl }}/images/seattle-jank-bike/front_calipers.jpg)
 ![Rear Calipers]({{ site.baseurl }}/images/seattle-jank-bike/rear_calipers.jpg)
-So this is what the bike looked like after I was done:
+This is what the bike looked like after I was done:
 ![Finished]({{ site.baseurl }}/images/seattle-jank-bike/finished_prod.jpg)
-And so I took it down a slope to test the breaks:
+And I took it down a slope to test the breaks:
 ![Slope]({{ site.baseurl }}/images/seattle-jank-bike/test_slope.jpg)
-And the breaks were weak but acceptable since I can just use my feet to stop
+The breaks were weak but acceptable since I can use my feet to stop
 myself after slowing down enough. So YAY! 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Plan: Replacing Bike Levers"
 date:   2017-05-19 08:30:00 -0700
-categories: Seattle Summer 2017
+categories: Seattle
 ---
 
 I've been pretty excited for a while to get a vintage
@@ -18,7 +18,7 @@ located on the bike: down on the frame rather than where the hands sit on the
 handlebars. I'm glad they work because I'm not sure it's possible to bike
 Seattle without multi-speed bikes...
 
-The best part about this bike are it's almost unreachable break levers. And
+The best part about this bike are its almost unreachable break levers. And
 this would be totally okay if it weren't for the Seattle streets. As I walked to
 work the first day from Capitol Hill to Downtown, I discovered to my surprise that
 Seattle has streets that
