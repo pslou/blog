@@ -27,6 +27,7 @@ pagination:
   sort_reverse: true
 
 # Setup
+theme: minimal-mistakes-jekyll
 title:               plou's tHoTFuL SPot
 tagline:             'hi :)'
 description:         'thoughts, endeavors, and ramblings'
