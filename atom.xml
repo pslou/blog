@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>plou's tHoTFuL SPot</title>
+ <link href="paullou.me/blog/atom.xml" rel="self"/>
+ <link href="paullou.me/blog/"/>
+ <updated>2019-03-10T23:00:53+00:00</updated>
+ <id>paullou.me</id>
+ <author>
+   <name>Paul S. Lou</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>appreciating oatmeal</title>
+   <link href="paullou.me/thoughts/2019/03/10/oatmeal/"/>
+   <updated>2019-03-10T18:14:00+00:00</updated>
+   <id>paullou.me/blog/thoughts/2019/03/10/oatmeal</id>
+   <content type="html">&lt;p&gt;Steel-cut oats, Scottish oats, old-fashioned rolled oats, quick-oats, and oat bran. 
+These are my morning ingredients for sustained energy and discipline.
+Oatmeal is to me as shrimp is to Bubba from Forrest Gump.
+If shrimp is like the fruit of the sea, oatmeal is the meal of the oats of the
+land… right, not quite sure what I was going for there.
+Plain oats will do just fine, but we can make oats with bananas, cinnamon and brown sugar,
+peanut butter, jam, coconut flakes, almond slices, and eggs.
+There’s overnight oats, slow-cooked oats, microwaved oats, and uncooked oats.
+Considering the set of adjectives one could prefix and suffix to oats or oatmeal
+we have a large finite set of potential oatmeals that I hope to explore in the
+coming mornings.
+Tea-steeped overnight oats… espresso-steeped overnight oats… tiramisu 
+with overnight oats… not-overnight overnight oats?
+Let’s be real: I microwave and eat the same oatmeal recipe every morning.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>lunch times</title>
+   <link href="paullou.me/seattle/2017/05/27/lunch/"/>
+   <updated>2017-05-27T23:30:00+00:00</updated>
+   <id>paullou.me/blog/seattle/2017/05/27/lunch</id>
+   <content type="html">&lt;p&gt;In my book, there are only three times to eat lunch:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Around 11:00 before lines form.&lt;/li&gt;
+  &lt;li&gt;After 2:30 in the afternoon to avoid lines.&lt;/li&gt;
+  &lt;li&gt;Or don’t eat lunch.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>bike-tastrophe</title>
+   <link href="paullou.me/seattle/2017/05/26/biketastrophe/"/>
+   <updated>2017-05-26T01:30:00+00:00</updated>
+   <id>paullou.me/blog/seattle/2017/05/26/biketastrophe</id>
+   <content type="html">&lt;p&gt;So I stopped at this redlight on my “new” bike and I noticed that although I
+stopped, the front wheel was still rolling a little forward. Out of curiousity,
+I picked up my bike by the handles to understand what had just happend. 
+Lo and behold, it turns out my front wheel detached itself off the fork. Welp.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>finished bike</title>
+   <link href="paullou.me/seattle/2017/05/22/bike-work/"/>
+   <updated>2017-05-22T01:30:00+00:00</updated>
+   <id>paullou.me/blog/seattle/2017/05/22/bike-work</id>
+   <content type="html">&lt;p&gt;So here are the photos. These are the tools and the new bike levers:
+&lt;img src=&quot;/blog/images/seattle-jank-bike/tools.jpg&quot; alt=&quot;Tools&quot; /&gt;
+And these are the old bike handles:
+&lt;img src=&quot;/blog/images/seattle-jank-bike/old_bike_handles.jpg&quot; alt=&quot;Old Bike Handles&quot; /&gt;
+The calipers you see below are centerpull brake calipers. 
+My fingers were crying and my back was mad aching by the end
+of servicing them. I had to take multiple tries adjusting the break cable
+in the yolk and I inadvertently looped the rear break cable onto the nut for the 
+seat height adjustment. So I can’t actually adjust the seat height anymore…
+&lt;img src=&quot;/blog/images/seattle-jank-bike/front_calipers.jpg&quot; alt=&quot;Front Calipers&quot; /&gt;
+&lt;img src=&quot;/blog/images/seattle-jank-bike/rear_calipers.jpg&quot; alt=&quot;Rear Calipers&quot; /&gt;
+This is what the bike looked like after I was done:
+&lt;img src=&quot;/blog/images/seattle-jank-bike/finished_prod.jpg&quot; alt=&quot;Finished&quot; /&gt;
+And I took it down a slope to test the breaks:
+&lt;img src=&quot;/blog/images/seattle-jank-bike/test_slope.jpg&quot; alt=&quot;Slope&quot; /&gt;
+The breaks were weak but acceptable since I can use my feet to stop
+myself after slowing down enough. So YAY!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>plan: replacing bike levers</title>
+   <link href="paullou.me/seattle/2017/05/19/bike-levers/"/>
+   <updated>2017-05-19T15:30:00+00:00</updated>
+   <id>paullou.me/blog/seattle/2017/05/19/bike-levers</id>
+   <content type="html">&lt;p&gt;I’ve been pretty excited for a while to get a vintage
+roadbike and I finally bought one in Seattle off Craigslist for $60 cash. I’ll
+attach a photo sometime, but the bike is in fair condition with just a slight
+bit of rust. The most enjoyable yet concerning features are the downtube shifters
+and the fact that I can’t really grip/reach the break levers.&lt;/p&gt;
+
+&lt;p&gt;Downtube gear shifters are RETRO. Together with drinking Seattle cold brew, using downtube
+shifters feels really hipster.
+Unfortunately, these shifters are slightly less convenient because of where they are
+located on the bike: down on the frame rather than where the hands sit on the
+handlebars. I’m glad they work because I’m not sure it’s possible to bike
+Seattle without multi-speed bikes…&lt;/p&gt;
+
+&lt;p&gt;The best part about this bike are its almost unreachable break levers. And
+this would be totally okay if it weren’t for the Seattle streets. As I walked to
+work the first day from Capitol Hill to Downtown, I discovered to my surprise that
+Seattle has streets that
+roll up and down. They are reminiscent of San Francisco’s to a
+lesser degree. As someone trying to ride a vintage bike with downtube
+shifters, it’s daunting enough to think about going uphill on varying inclines. But as someone
+trying to ride a vintage bike with unreachable break levers, downhill sounds just
+FANTASTIC. So here’s the upcoming weekend project. I spent about about $11 on a new set
+of break cables and housing, and another $16 on break levers which arrive
+tomorrow. I’m going to manually install responsive break levers. Photos to come.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
