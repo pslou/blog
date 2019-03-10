@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Lunch times"
+title:  "lunch times"
 date:   2017-05-27 16:30:00 -0700
-categories: Seattle Summer 2017
+categories: seattle
 ---
 
 In my book, there are only three times to eat lunch: 
 1. Around 11:00 before lines form. 
 2. After 2:30 in the afternoon to avoid lines. 
-3. Or just don't eat lunch.
+3. Or don't eat lunch.

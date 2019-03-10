@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Plan: Replacing Bike Levers"
+title:  "plan: replacing bike levers"
 date:   2017-05-19 08:30:00 -0700
-categories: Seattle
+categories: seattle
 ---
 
 I've been pretty excited for a while to get a vintage

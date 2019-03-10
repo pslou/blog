@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Bike-tastrophe"
+title:  "bike-tastrophe"
 date:   2017-05-25 18:30:00 -0700
-categories: Seattle Summer 2017
+categories: seattle 
 ---
 
 So I stopped at this redlight on my "new" bike and I noticed that although I

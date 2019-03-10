@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Finished Bike"
+title:  "finished bike"
 date:   2017-05-21 18:30:00 -0700
-categories: Seattle
+categories: seattle
 ---
 
 So here are the photos. These are the tools and the new bike levers:
