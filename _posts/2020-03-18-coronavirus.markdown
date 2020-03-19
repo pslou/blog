@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Illusory Tranquility"
+title:  "illusory tranquility"
 date:   2020-03-18 8:15:00 -0800
 categories: thoughts
 ---
